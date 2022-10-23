@@ -1,0 +1,15 @@
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\bin\Debug\net6.0\01. Experience Gaining.exe
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\bin\Debug\net6.0\01. Experience Gaining.deps.json
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\bin\Debug\net6.0\01. Experience Gaining.runtimeconfig.json
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\bin\Debug\net6.0\01. Experience Gaining.dll
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\bin\Debug\net6.0\01. Experience Gaining.pdb
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\obj\Debug\net6.0\01. Experience Gaining.csproj.AssemblyReference.cache
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\obj\Debug\net6.0\01. Experience Gaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\obj\Debug\net6.0\01. Experience Gaining.AssemblyInfoInputs.cache
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\obj\Debug\net6.0\01. Experience Gaining.AssemblyInfo.cs
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\obj\Debug\net6.0\01. Experience Gaining.csproj.CoreCompileInputs.cache
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\obj\Debug\net6.0\01. Experience Gaining.dll
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\obj\Debug\net6.0\refint\01. Experience Gaining.dll
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\obj\Debug\net6.0\01. Experience Gaining.pdb
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\obj\Debug\net6.0\01. Experience Gaining.genruntimeconfig.cache
+C:\Users\Александър\source\repos\Mid_Exam\01. Experience Gaining\obj\Debug\net6.0\ref\01. Experience Gaining.dll
